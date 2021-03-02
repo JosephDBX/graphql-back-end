@@ -1,0 +1,8 @@
+{
+    "env": {
+        "SECRET_KEY": "https://github.com/JosephDBX/",
+        "DATABASE": "production",
+        "USER_NAME": "JosephDBX",
+        "PASSWORD": "dbx15+AC"
+    }
+}
